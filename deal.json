@@ -1,0 +1,26 @@
+{
+  "deal_name": "MSCG 2024-CMBS1",
+  "full_name": "Morgan Stanley Capital Group Trust 2024-CMBS1",
+  "issuer": "Morgan Stanley Capital Group",
+  "trustee": "Wilmington Trust, N.A.",
+  "master_servicer": "KeyBank National Association",
+  "special_servicer": "Rialto Capital Advisors, LLC",
+  "certificate_administrator": "Computershare Trust Company, N.A.",
+  "closing_date": "2024-06-27",
+  "cutoff_date": "2024-06-01",
+  "first_payment_date": "2024-07-17",
+  "distribution_date": "17th of each month",
+  "expected_final_distribution": "2034-06-17",
+  "rated_final_distribution": "2057-06-17",
+  "total_pool_balance": 1345132442.28,
+  "loan_count": 50,
+  "property_count": 57,
+  "deal_type": "Conduit / Fusion",
+  "prospectus_date": "2024-06-18",
+  "sec_cik": "0001985724",
+  "rating_agencies": [
+    "Moody's",
+    "Fitch",
+    "KBRA"
+  ]
+}

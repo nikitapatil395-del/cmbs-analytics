@@ -1,0 +1,14 @@
+class_name,balance,coupon_pct,rating_moodys,rating_fitch,rating_kbra,credit_support_pct,wal_years,tranche_type,payment_order
+A-1,128515838.0,4.85,Aaa(sf),AAAsf,AAA(sf),30.0,2.7,Senior,1
+A-2,231328510.0,5.3,Aaa(sf),AAAsf,AAA(sf),30.0,6.8,Senior,2
+A-3,299870289.0,5.55,Aaa(sf),AAAsf,AAA(sf),30.0,9.4,Senior,3
+A-SB,77109503.0,5.15,Aaa(sf),AAAsf,AAA(sf),30.0,7.1,Senior,4
+A-S,154219006.0,5.8,Aaa(sf),AAAsf,AAA(sf),22.5,9.7,Senior,5
+B,128515838.0,6.05,Aa3(sf),AA-sf,AA-(sf),16.0,9.8,Mezz,6
+C,102812671.0,6.35,A3(sf),A-sf,A-(sf),10.5,9.9,Mezz,7
+D,85677225.0,6.75,Baa3(sf),BBB-sf,BBB-(sf),5.5,9.9,Mezz,8
+E,51406335.0,7.25,Ba3(sf),BB-sf,BB-(sf),2.5,9.9,Sub,9
+F,42838613.0,7.75,B3(sf),B-sf,B-(sf),0.0,9.9,Sub,10
+NR,42838613.0,0.0,NR,NR,NR,0.0,9.9,Sub,11
+X-A,699468870.0,1.25,Aaa(sf),AAAsf,AAA(sf),30.0,8.4,IO,12
+X-B,248849502.0,0.85,Aa3(sf),BBB-sf,BBB-(sf),5.5,9.8,IO,13
